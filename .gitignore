@@ -1,0 +1,17 @@
+dist
+/node_modules
+/storybook-static
+/build
+
+yarn.lock
+yarn-error.log
+package-lock.json
+.idea
+.DS_Store
+.env
+.history
+# .vscode
+/public/vendor
+/public/vendor/*.json
+/*/.DS_Store
+/public/index.html
